@@ -1,0 +1,46 @@
+# Dependencies and build output
+node_modules/
+dist/
+build/
+.vite/
+
+# Environment files and local secrets
+.env
+.env.*
+!.env.example
+*.env
+*.key
+*.pem
+
+# Python caches and virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+
+# Test and coverage output
+coverage/
+.coverage
+.nyc_output/
+
+# Logs and local runtime files
+*.log
+*.pid
+*.seed
+
+# Editor and operating-system files
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local generated simulation artifacts
+server/data/3d-flood/frames/*
+server/data/3d-flood/frames/.gitkeep

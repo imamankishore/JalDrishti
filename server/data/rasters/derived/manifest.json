@@ -1,0 +1,47 @@
+{
+ "dir": "tehri_depth",
+ "files": [
+  "Depth_t00.Terrain.P5_PAN_CD_N30_000_E078_000_DEM_30m.tif",
+  "Depth_t01.Terrain.P5_PAN_CD_N30_000_E078_000_DEM_30m.tif",
+  "Depth_t02.Terrain.P5_PAN_CD_N30_000_E078_000_DEM_30m.tif",
+  "Depth_t03.Terrain.P5_PAN_CD_N30_000_E078_000_DEM_30m.tif",
+  "Depth_t04.Terrain.P5_PAN_CD_N30_000_E078_000_DEM_30m.tif",
+  "Depth_t05.Terrain.P5_PAN_CD_N30_000_E078_000_DEM_30m.tif",
+  "Depth_t06.Terrain.P5_PAN_CD_N30_000_E078_000_DEM_30m.tif",
+  "Depth_t07.Terrain.P5_PAN_CD_N30_000_E078_000_DEM_30m.tif",
+  "Depth_t08.Terrain.P5_PAN_CD_N30_000_E078_000_DEM_30m.tif",
+  "Depth_t09.Terrain.P5_PAN_CD_N30_000_E078_000_DEM_30m.tif",
+  "Depth_t10.Terrain.P5_PAN_CD_N30_000_E078_000_DEM_30m.tif",
+  "Depth_t11.Terrain.P5_PAN_CD_N30_000_E078_000_DEM_30m.tif",
+  "Depth_t12.Terrain.P5_PAN_CD_N30_000_E078_000_DEM_30m.tif",
+  "Depth_t13.Terrain.P5_PAN_CD_N30_000_E078_000_DEM_30m.tif",
+  "Depth_t14.Terrain.P5_PAN_CD_N30_000_E078_000_DEM_30m.tif"
+ ],
+ "hours": [
+  0.0,
+  2.0,
+  2.0,
+  4.0,
+  4.0,
+  6.0,
+  6.0,
+  8.0,
+  8.0,
+  10.0,
+  10.0,
+  12.0,
+  12.0,
+  14.0,
+  14.0
+ ],
+ "uniqueIdx": [
+  0,
+  1,
+  3,
+  5,
+  7,
+  9,
+  11,
+  13
+ ]
+}

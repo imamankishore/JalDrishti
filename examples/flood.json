@@ -1,0 +1,33 @@
+{
+  "dam": "tehri",
+  "scenarioType": "flood",
+  "reservoirLevel": 815,
+  "breachWidth": 100,
+  "breachFormationTime": 30,
+  "simulationDuration": 3,
+  "impactLayers": {
+    "settlements": true,
+    "roads": true,
+    "buildings": true,
+    "bridges": false,
+    "criticalInfrastructure": false
+  },
+  "advanced": {
+    "simulationEngine": "shallow_water",
+    "terrainResolution": 250,
+    "timeStep": "auto",
+    "manningRoughness": "auto",
+    "initialRiverDischarge": "auto",
+    "downstreamBoundary": "auto",
+    "rainfall": "heavy",
+    "outputInterval": 10,
+    "outputs": {
+      "floodExtent": true,
+      "waterDepth": true,
+      "flowVelocity": true,
+      "arrivalTime": true,
+      "maximumDepth": true,
+      "maximumVelocity": true
+    }
+  }
+}
